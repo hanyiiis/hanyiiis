@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hanyiiis
-- 👀 I’m interested in reinforcement learning and physics simulation. (only a layman
+- 👀 I’m interested in reinforcement learning and physics simulation，but only a layman
 - 🌱 I’m currently learning deep learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
