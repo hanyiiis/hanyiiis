@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Hanyiiis's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanyiiis)](https://github.com/anuraghazra/github-readme-stats)
+[![Hanyiiis's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanyiiisshow_icons=true&count_private=true&theme=nord)]
 <!---
 - 👋 Hi, I’m @hanyiiis
 - 👀 I’m interested in reinforcement learning and physics simulation，but only a layman
