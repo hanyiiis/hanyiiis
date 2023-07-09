@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Hanyiiis's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanyiiisshow_icons=true&count_private=true&theme=nord)
+![Hanyiiis's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanyiiis&show_icons=true&theme=nord)
 
 <!---
 - 👋 Hi, I’m @hanyiiis
